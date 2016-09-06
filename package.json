@@ -1,0 +1,15 @@
+{
+  "name": "xor-cracker",
+  "version": "0.0.1",
+  "description": "A XOR cracker",
+  "main": "xor-cracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JBE",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "2.9.0",
+    "yargs": "5.0.0"
+  }
+}
